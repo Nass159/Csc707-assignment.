@@ -9,6 +9,7 @@ am i going to use inline or link my html to another css document.
 And the second challenge i faced was the size of the images i used.
 the third challenge i faces was the format of the firstvideo i used which was "MOV"
  was not supported by all web browsers i had to look for another video with different format.
+4. another challenge i faced was not being able to upload a video i used on my second web page.
  
- 4. name: Jamilu Nasiru Abdullahi
+ 5. name: Jamilu Nasiru Abdullahi
 	student ID: 2200244005
